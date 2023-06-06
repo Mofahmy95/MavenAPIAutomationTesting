@@ -1,0 +1,4 @@
+ClientReader\BaseReader.class
+POJO\HttpResponseStatusCodes.class
+POJO\HttpResponseMessages.class
+ClientReader\HTTPClientBuilder.class
