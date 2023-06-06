@@ -7,7 +7,7 @@ Feature: CRUD APIs
     Scenario: Get a Single User
       Given Get a Single User
 
-  Scenario: Create New User
+  Scenario: Create New Users
     Given Create New User
 
   Scenario: Delete Existing User
